@@ -10,3 +10,7 @@ var doesShed = true
 var furs = ['black', 'white', 'double-coated', 'soft', '2-3 inches long']
 var likes = ['dinnertime', 'walks', 'people who will pet him']
 var medicines = ['vitamin', 'carprofen', 'simparicaTrio']
+var myDogDyna = new Object();
+myDogDyna.breed = 'Dalmatian mix';
+myDogDyna.weight = 60;
+myDogDyna.furLength = 'short';
