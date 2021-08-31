@@ -4,3 +4,6 @@ var disposition = "friendly"
 var age = 10
 var weightInPounds = 100
 var numLegs = 4
+var isMale = false
+var isNeutered = true
+var doesShed = true
